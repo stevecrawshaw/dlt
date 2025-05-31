@@ -1,3 +1,6 @@
+# %%
 import dlt
 
-print(dict(dlt.secrets))
+# %%
+dlt.secrets
+# %%
